@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "wayou.vscode-todo-highlight",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "codezombiech.gitignore"
+  ]
+}

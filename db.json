@@ -1,0 +1,558 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "All-purpose flour"
+    },
+    {
+      "id": 2,
+      "name": "Sugar"
+    },
+    {
+      "id": 3,
+      "name": "Butter"
+    },
+    {
+      "id": 4,
+      "name": "Chicken breast"
+    },
+    {
+      "id": 5,
+      "name": "Breadcrumbs"
+    },
+    {
+      "id": 6,
+      "name": "Tomato sauce"
+    },
+    {
+      "id": 7,
+      "name": "Romaine lettuce"
+    },
+    {
+      "id": 8,
+      "name": "Croutons"
+    },
+    {
+      "id": 9,
+      "name": "Caesar dressing"
+    },
+    {
+      "id": 10,
+      "name": "Flour"
+    },
+    {
+      "id": 11,
+      "name": "Milk"
+    },
+    {
+      "id": 12,
+      "name": "Eggs"
+    },
+    {
+      "id": 13,
+      "name": "Spaghetti"
+    },
+    {
+      "id": 14,
+      "name": "Ground beef"
+    },
+    {
+      "id": 15,
+      "name": "Tomatoes"
+    },
+    {
+      "id": 16,
+      "name": "Vegetable broth"
+    },
+    {
+      "id": 17,
+      "name": "Garlic"
+    },
+    {
+      "id": 18,
+      "name": "Avocado"
+    },
+    {
+      "id": 19,
+      "name": "Lime juice"
+    },
+    {
+      "id": 20,
+      "name": "Onion"
+    },
+    {
+      "id": 21,
+      "name": "Salmon fillet"
+    },
+    {
+      "id": 22,
+      "name": "Lemon"
+    },
+    {
+      "id": 23,
+      "name": "Herbs"
+    },
+    {
+      "id": 24,
+      "name": "Greek yogurt"
+    },
+    {
+      "id": 25,
+      "name": "Granola"
+    },
+    {
+      "id": 26,
+      "name": "Mixed berries"
+    },
+    {
+      "id": 27,
+      "name": "Tomatoes"
+    },
+    {
+      "id": 28,
+      "name": "Mozzarella"
+    },
+    {
+      "id": 29,
+      "name": "Basil"
+    },
+    {
+      "id": 30,
+      "name": "Assorted vegetables"
+    },
+    {
+      "id": 31,
+      "name": "Soy sauce"
+    },
+    {
+      "id": 32,
+      "name": "Vegetable oil"
+    },
+    {
+      "id": 33,
+      "name": "Mangoes"
+    },
+    {
+      "id": 34,
+      "name": "Red onion"
+    },
+    {
+      "id": 35,
+      "name": "Lime juice"
+    },
+    {
+      "id": 36,
+      "name": "Salt"
+    },
+    {
+      "id": 37,
+      "name": "Flour"
+    },
+    {
+      "id": 38,
+      "name": "Milk"
+    },
+    {
+      "id": 39,
+      "name": "Eggs"
+    },
+    {
+      "id": 40,
+      "name": "Spaghetti"
+    },
+    {
+      "id": 41,
+      "name": "Ground beef"
+    },
+    {
+      "id": 42,
+      "name": "Tomatoes"
+    },
+    {
+      "id": 43,
+      "name": "Vegetable broth"
+    },
+    {
+      "id": 44,
+      "name": "Garlic"
+    },
+    {
+      "id": 45,
+      "name": "Avocado"
+    },
+    {
+      "id": 46,
+      "name": "Lime juice"
+    },
+    {
+      "id": 47,
+      "name": "Onion"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Chocolate Chip Cookies",
+      "description": "Classic homemade chocolate chip cookies",
+      "label": "Dessert",
+      "cookingTime": 15,
+      "isFavorite": true,
+      "isPopular": true,
+      "ingredients": [
+        {
+          "ingredientId": 1,
+          "amount": 2,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 2,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 3,
+          "amount": 0.5,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Parmesan",
+      "description": "Breaded chicken topped with tomato sauce and cheese",
+      "label": "Main Course",
+      "cookingTime": 30,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 4,
+          "amount": 2,
+          "amountType": "piece"
+        },
+        {
+          "ingredientId": 5,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 6,
+          "amount": 1,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "description": "Classic salad with romaine lettuce, croutons, and Caesar dressing",
+      "label": "Salad",
+      "cookingTime": 10,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 7,
+          "amount": 1,
+          "amountType": "piece"
+        },
+        {
+          "ingredientId": 8,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 9,
+          "amount": 0.25,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pancakes",
+      "description": "Fluffy pancakes served with maple syrup",
+      "label": "Breakfast",
+      "cookingTime": 20,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 10,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 11,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 12,
+          "amount": 2,
+          "amountType": "piece"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Spaghetti Bolognese",
+      "description": "Classic Italian pasta dish with meat sauce",
+      "label": "Main Course",
+      "cookingTime": 40,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 13,
+          "amount": 8,
+          "amountType": "ounces"
+        },
+        {
+          "ingredientId": 14,
+          "amount": 1,
+          "amountType": "pound"
+        },
+        {
+          "ingredientId": 15,
+          "amount": 2,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Guacamole",
+      "description": "Creamy avocado dip with spices",
+      "label": "Appetizer",
+      "cookingTime": 10,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 18,
+          "amount": 2,
+          "amountType": "piece"
+        },
+        {
+          "ingredientId": 19,
+          "amount": 1,
+          "amountType": "tablespoon"
+        },
+        {
+          "ingredientId": 20,
+          "amount": 0.25,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tomato Soup",
+      "description": "Classic tomato soup with a hint of basil",
+      "label": "Soup",
+      "cookingTime": 25,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 15,
+          "amount": 4,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 16,
+          "amount": 2,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 17,
+          "amount": 2,
+          "amountType": "cloves"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mango Salsa",
+      "description": "Refreshing salsa with ripe mangoes and spices",
+      "label": "Appetizer",
+      "cookingTime": 15,
+      "isFavorite": false,
+      "isPopular": true,
+      "ingredients": [
+        {
+          "ingredientId": 33,
+          "amount": 2,
+          "amountType": "piece"
+        },
+        {
+          "ingredientId": 34,
+          "amount": 0.25,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 35,
+          "amount": 0.25,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Baked Salmon",
+      "description": "Oven-baked salmon fillet with lemon and herbs",
+      "label": "Main Course",
+      "cookingTime": 25,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 21,
+          "amount": 1,
+          "amountType": "pound"
+        },
+        {
+          "ingredientId": 22,
+          "amount": 1,
+          "amountType": "piece"
+        },
+        {
+          "ingredientId": 23,
+          "amount": 2,
+          "amountType": "tablespoon"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Greek Yogurt Parfait",
+      "description": "Layers of Greek yogurt, granola, and mixed berries",
+      "label": "Dessert",
+      "cookingTime": 10,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 24,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 25,
+          "amount": 0.5,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 26,
+          "amount": 0.5,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Beef Stir-Fry",
+      "description": "Tender beef slices stir-fried with vegetables",
+      "label": "Main Course",
+      "cookingTime": 30,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 36,
+          "amount": 1,
+          "amountType": "pound"
+        },
+        {
+          "ingredientId": 37,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 38,
+          "amount": 0.5,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Caprese Salad",
+      "description": "Fresh salad with tomatoes, mozzarella, and basil",
+      "label": "Salad",
+      "cookingTime": 10,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 39,
+          "amount": 2,
+          "amountType": "piece"
+        },
+        {
+          "ingredientId": 40,
+          "amount": 8,
+          "amountType": "ounce"
+        },
+        {
+          "ingredientId": 41,
+          "amount": 1,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Chicken Noodle Soup",
+      "description": "Comforting soup with chicken, noodles, and vegetables",
+      "label": "Soup",
+      "cookingTime": 35,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 42,
+          "amount": 2,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 43,
+          "amount": 1,
+          "amountType": "piece"
+        },
+        {
+          "ingredientId": 44,
+          "amount": 1,
+          "amountType": "cup"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Blueberry Muffins",
+      "description": "Delicious muffins packed with fresh blueberries",
+      "label": "Breakfast",
+      "cookingTime": 25,
+      "isFavorite": false,
+      "isPopular": false,
+      "ingredients": [
+        {
+          "ingredientId": 45,
+          "amount": 2,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 46,
+          "amount": 1,
+          "amountType": "cup"
+        },
+        {
+          "ingredientId": 47,
+          "amount": 1,
+          "amountType": "cup"
+        }
+      ]
+    }
+  ]
+}
